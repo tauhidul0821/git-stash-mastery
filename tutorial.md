@@ -39,16 +39,26 @@ error: please commit or stash them.
 ### that is done , now you know everyting about stash 
 
 # but better way to do same thing 
-- when create stash set a message with it by this command 
+- when create stash wirte a message with it by this command 
+```
+    git stash push -m 'message of changes '
+```
+- show stash list , now show stash list with message
+```
+    git stash list
+```
+- for paste your code, write this command [0 or 1 or other number is stash number]
+```
+    git stash pop 0
+```
+- a spacific file stash , here last word is file name
+```
+    git stash push -m "modified the README.md" README.md
 ```
 
+- for delete a stash
 ```
-
-
-
-
-
-
-
+    git stash drop 2
+```
 
 
