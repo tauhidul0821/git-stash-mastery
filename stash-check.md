@@ -2,5 +2,14 @@
 - git stash
 - adfasdf
 - adfasdf
+- for conflict 
+- for conflict 
+- for conflict 
+- for conflict 
 - adfasdf
 - adfasdf
+- for conflict 
+- for conflict 
+- for conflict 
+- for conflict 
+- for conflict 
