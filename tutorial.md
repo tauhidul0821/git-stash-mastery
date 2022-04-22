@@ -58,7 +58,7 @@ error: please commit or stash them.
 
 - for delete a stash
 ```
-    git stash drop 2
+    git stash drop [stash number 1 or 2 or other ]
 ```
 
 
