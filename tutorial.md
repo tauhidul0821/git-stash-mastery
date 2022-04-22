@@ -36,6 +36,14 @@ error: please commit or stash them.
     git stash apply
 ```
 
+### that is done , now you know everyting about stash 
+
+# but better way to do same thing 
+- when create stash set a message with it by this command 
+```
+
+```
+
 
 
 
